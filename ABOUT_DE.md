@@ -43,4 +43,4 @@ Hier kannst du deinen Stundenplan individuell zusammen stellen und farblich mark
 ## Hilfe
 1. Mein Stundenplan lässt sich nicht öffnen
 > Dies kann verschiedene Uhrsachen haben. Wahrscheinlich wurde die Datei Korumpiert oder die Version der Datei stimmt nicht
-mit der Version des Programms überein. In beiden Fällen bitten wir um Entschuldigung. Wir unternehmen unser möglichstes, ein sogut es geht fehlerfreies Produkt anzubieten.
+mit der Version des Programms überein. In beiden Fällen bitten wir um Entschuldigung. Wir unternehmen unser Möglichstes, ein sogut es geht fehlerfreies Produkt anzubieten.
